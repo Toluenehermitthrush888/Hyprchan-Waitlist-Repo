@@ -19,3 +19,4 @@ Press `Esc` or `q` to exit.
 
 Images are randomly scaled, spun, and dropped across the overlay alongside the particle spam.
 # Hyprchan-Waitlist-Repo
+# Hyprchan-Waitlist-Repo
