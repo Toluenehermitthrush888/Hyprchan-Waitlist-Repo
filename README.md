@@ -11,7 +11,6 @@
 <img width="2176" height="1488" alt="2026-03-03-050200_hyprshot" src="https://github.com/user-attachments/assets/c03a253e-2454-4136-ba55-789fa5500775" />
 
 ## This is a sleeping loop, it looks better than other parts right now:
-![asleep_while_sitting_loop](https://github.com/user-attachments/assets/c4a07851-2310-47fa-9efa-c03e305513ea)
-
+![asleep_while_sitting_loop_](https://github.com/user-attachments/assets/e9d5029a-3635-4f21-9e83-0b9f79c5555e)
 
 
