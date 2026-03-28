@@ -4,10 +4,10 @@
 <img width="3022" height="1960" alt="2026-03-03-045955_hyprshot" src="https://github.com/user-attachments/assets/048a5a08-fee6-4849-82c2-8def8c1b5289" />
 
 # A bit of a devlog:
-Tiled some animations. In total there are 10 now, but they are kinda sloppy, I'm still refining them.
+## Tiled some animations. In total there are 10 now, but they are kinda sloppy, I'm still refining them.
 <img width="2512" height="1272" alt="2026-03-03-053233_hyprshot" src="https://github.com/user-attachments/assets/044829bb-9f1e-4ce6-b2de-e92fa52e19ef" />
 <img width="2176" height="1488" alt="2026-03-03-050200_hyprshot" src="https://github.com/user-attachments/assets/c03a253e-2454-4136-ba55-789fa5500775" />
-This is a sleeping loop, it looks better than other parts right now:
+## This is a sleeping loop, it looks better than other parts right now:
 ![asleep_while_sitting_loop](https://github.com/user-attachments/assets/c4a07851-2310-47fa-9efa-c03e305513ea)
 
 
