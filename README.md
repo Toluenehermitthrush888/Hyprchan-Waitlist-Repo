@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Developing-blueviolet?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/License-FOSS-brightgreen?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/stars/AscenderTeam/Hyprchan-Waitlist-Repo?style=for-the-badge&color=gold" alt="Stars">
+  <img src="https://img.shields.io/github/stars/WaromiV/Hyprchan-Waitlist-Repo?style=for-the-badge&color=gold" alt="Stars">
 </p>
 
 ---
