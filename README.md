@@ -38,7 +38,7 @@ This repository is the temporary home for Hyprchan's development. Soon, this wil
 
 <details>
   <summary>😴 <strong>Sleeping Loop</strong></summary>
-  <p>One of the most polished parts so far—the sitting sleep loop. It’s coming together!</p>
+  <p>One of the most polished parts so far is the sitting sleep loop. It’s coming together!</p>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/e9d5029a-3635-4f21-9e83-0b9f79c5555e" width="600" alt="Sleeping Loop">
   </p>
