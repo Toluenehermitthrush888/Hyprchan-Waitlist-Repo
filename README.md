@@ -15,9 +15,14 @@
   <img src="https://img.shields.io/github/stars/WaromiV/Hyprchan-Waitlist-Repo?style=for-the-badge&color=gold" alt="Stars">
 </p>
 
+<p align="center">
+  Follow updates on X: <a href="https://x.com/HyprChan">@HyprChan</a>
+</p>
+
 ---
 
 ### 📝 Project Vision
+
 This repository is the temporary home for Hyprchan's development. Soon, this will transform into the official source code hub. Star ⭐ or follow to stay updated on the release!
 
 > [!IMPORTANT]
